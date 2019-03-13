@@ -1,0 +1,3 @@
+/home/fatcat/Downloads/finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fatcat/Downloads/finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fatcat/Downloads/finder/cmake-build-debug/CMakeFiles/finder.dir
